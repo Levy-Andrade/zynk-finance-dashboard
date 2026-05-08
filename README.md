@@ -1,16 +1,127 @@
-# React + Vite
+# 🚀 Zynk Finance Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um dashboard financeiro moderno desenvolvido com React, Vite e Tailwind CSS.
 
-Currently, two official plugins are available:
+O projeto foi criado com foco em:
+- UI moderna
+- Componentização
+- Responsividade
+- Arquitetura escalável
+- Experiência visual estilo SaaS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Preview do Dashboard](./preview.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# ✨ Funcionalidades
+
+✅ Sidebar moderna e responsiva  
+✅ Cards financeiros dinâmicos  
+✅ Gráficos financeiros com Recharts  
+✅ Tabela de transações  
+✅ Simulação de API  
+✅ Skeleton Loading  
+✅ Layout profissional estilo SaaS  
+✅ Estrutura escalável para futuras funcionalidades  
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+- React
+- Vite
+- Tailwind CSS
+- Recharts
+- Lucide React
+- JavaScript ES6+
+
+---
+
+# 📂 Estrutura do Projeto
+
+```bash
+src
+ ├── api
+ ├── components
+ │   ├── cards
+ │   ├── charts
+ │   ├── layout
+ │   └── tables
+ ├── data
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
+```
+
+---
+
+# ⚙️ Instalação
+
+Clone o projeto:
+
+```bash
+git clone https://github.com/SEU-USUARIO/zynk-finance-dashboard.git
+```
+
+Entre na pasta:
+
+```bash
+cd zynk-finance-dashboard
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+---
+
+# 🎯 Objetivo do Projeto
+
+Este projeto foi desenvolvido para fins de estudo e portfólio, com o objetivo de praticar:
+
+- React moderno
+- Hooks
+- Componentização
+- Organização de código
+- Estrutura de dashboards profissionais
+- Integração de dados simulados
+- UI/UX moderna
+
+---
+
+# 📌 Futuras Melhorias
+
+- Autenticação de usuários
+- Integração com backend real
+- Banco de dados
+- Dark/Light mode avançado
+- Dashboard mobile completo
+- Sistema de filtros
+- Exportação de relatórios
+
+---
+
+# 👨‍💻 Autor
+
+Desenvolvido por **Levy Andrade**
+
+- LinkedIn: https://www.linkedin.com/in/levy-andrade/
+- GitHub: https://github.com/Levy-Andrade
+
+---
+
+# ⭐ Considerações
+
+Se gostou do projeto, deixe uma estrela no repositório ⭐
